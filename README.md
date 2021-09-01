@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Gasto Semanal / Weekly Budget with React
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/259aac8e-21e5-4d3b-8ef9-174c8585a865/deploy-status)](https://app.netlify.com/sites/presupuesto-react-carmelitu/deploys)
+
+Check it out here: https://presupuesto-react-carmelitu.netlify.app/
+
+Project made for a React course on Udemy.
+
+On this page you can load your initial budget and then load your expenses to keep track of them.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
